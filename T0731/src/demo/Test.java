@@ -6,10 +6,14 @@ public class Test {
 		// TODO Auto-generated method stub
 
 		System.out.println("hello world");
+
 		int a=200;
 		System.out.println(a);
 		int c=100;
 		System.out.println(c);
+
+		int aa=150;
+		System.out.println(aa);
 	}
 
 }
